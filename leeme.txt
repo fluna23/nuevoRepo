@@ -1,4 +1,14 @@
+<<<<<<< HEAD
+modificacion al princcipio del archivo
+
 "mi primer linea"
 otras lineas
 otras lineas
-otras lineas en hotfix
+otras lineas en hotfixotra linea de este ticke" 
+=======
+modificacion al princcipio del archivo
+
+"mi primer linea" 
+"mi segunda linea"
+"otra con rama""otra linea de este ticke" 
+>>>>>>> ticket1
